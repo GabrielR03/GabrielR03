@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Olá, seja bem-vindo ao perfil de Gabriel Rodrigues Pereira 👋
+<div align="center">
+ - Tenho 19 anos e me encontro cursando o 3º ano de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Federal de Minas Gerais.
+ - Programador de C/C++ e entusiasta de Desenvolvimento de Jogos (GameDev).
+ - Pretendo aprofundar em HTML, CSS e JavaScript e possivelmente PHP e MySQL este ano(2022) através da disciplina de DAW(Desenvolvimento de Aplicativos Web).
+</div>
 <!--
 **GabrielR03/GabrielR03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
