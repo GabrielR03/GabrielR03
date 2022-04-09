@@ -1,8 +1,12 @@
 ### Olá, seja bem-vindo ao perfil de Gabriel Rodrigues Pereira 👋
-<div align="center">
- - Tenho 19 anos e me encontro cursando o 3º ano de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Federal de Minas Gerais.
- - Programador de C/C++ e entusiasta de Desenvolvimento de Jogos (GameDev).
- - Pretendo aprofundar em HTML, CSS e JavaScript e possivelmente PHP e MySQL este ano(2022) através da disciplina de DAW(Desenvolvimento de Aplicativos Web).
+<div style="font-variant: small-caps;">
+ - 📚Tenho 19 anos e me encontro cursando o 3º ano de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Federal de Minas Gerais.
+ - 💻Programador de C/C++ e entusiasta de Desenvolvimento de Jogos (GameDev).
+ - 🌐Pretendo aprofundar em HTML, CSS e JavaScript e possivelmente PHP e MySQL este ano(2022) através da disciplina de DAW(Desenvolvimento de Aplicativos Web).
+</div>
+<div>
+ <a href = "mailto:gabrielrpereira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/gabriel-rodrigues-131317237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <!--
 **GabrielR03/GabrielR03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
