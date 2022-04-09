@@ -1,8 +1,8 @@
 ### Olá, seja bem-vindo ao perfil de Gabriel Rodrigues Pereira 👋
-<div style="font-variant: small-caps;">
- - 📚Tenho 19 anos e me encontro cursando o 3º ano de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Federal de Minas Gerais.
- - 💻Programador de C/C++ e entusiasta de Desenvolvimento de Jogos (GameDev).
- - 🌐Pretendo aprofundar em HTML, CSS e JavaScript e possivelmente PHP e MySQL este ano(2022) através da disciplina de DAW(Desenvolvimento de Aplicativos Web).
+<div>
+ <p>- 📚Tenho 19 anos e me encontro cursando o 3º ano de Desenvolvimento de Sistemas no Colégio Técnico da Universidade Federal de Minas Gerais. </p>
+ <p>- 💻Programador de C/C++ e entusiasta de Desenvolvimento de Jogos (GameDev). </p>
+ <p>- 🌐Pretendo aprofundar em HTML, CSS e JavaScript e possivelmente PHP e MySQL este ano(2022) através da disciplina de DAW(Desenvolvimento de Aplicativos Web). </p>
 </div>
 <div>
  <a href = "mailto:gabrielrpereira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
